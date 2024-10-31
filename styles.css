@@ -1,0 +1,64 @@
+body {
+    color:black;
+    background: aquamarine;
+    font-family: "Are You Serious", cursive;
+    margin-bottom: 100px;
+}
+
+header{
+    border-bottom: solid 6px rgb(23, 217, 23);
+    padding: 20px;
+    font-size: 40px;
+    color: rgb(18, 112, 18);
+
+}
+
+.chamada{
+    background: rgb(178, 219, 179);
+    padding-bottom: 80px;
+    padding-top: 20px;
+    display: flex;
+justify-content: left;
+
+}
+
+.chamada-texto{
+    margin-right: 10%;
+    
+}
+
+h1{
+    font-size: 60px;
+}
+p{
+    font-size: 30px;
+}
+
+.categoria-videos{
+    display: flex;
+    overflow-x: auto;
+gap: 10px;
+
+}
+
+.categoria{
+    padding-left: 20px;
+    padding-right: 20px;
+
+}
+
+.categoria-videos img {
+    opacity: 0.5;
+    height: 150px;
+
+}
+
+.categoria-videos img:hover{
+    opacity: 1.0;
+    border: 2px solid blue;
+}
+
+.categoria h2{
+    color:rgb(18, 112, 18);
+    margin-top: 60px;
+}
