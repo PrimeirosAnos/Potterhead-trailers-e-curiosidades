@@ -30,9 +30,6 @@ justify-content: left;
 h1{
     font-size: 60px;
 }
-p{
-    font-size: 30px;
-}
 
 .chamada2{
     background: rgb(178, 219, 179);
@@ -49,9 +46,6 @@ p{
 h2{
     font-size: 60px;
 }
-p2{
-    font-size: 30px;
-}
 
 .chamada3{
     background: rgb(178, 219, 179);
@@ -67,9 +61,7 @@ p2{
 h3{
     font-size: 60px;
 }
-p3{
-    font-size: 30px;
-}
+
 .chamada4{
     background: rgb(178, 219, 179);
     padding-bottom: 80px;
@@ -83,9 +75,6 @@ p3{
 }
 h4{
     font-size: 60px;
-}
-p4{
-    font-size: 30px;
 }
 
 .chamada5{
@@ -102,9 +91,6 @@ p4{
 h5{
     font-size: 60px;
 }
-p5{
-    font-size: 30px;
-}
 
 .chamada6{
     background: rgb(178, 219, 179);
@@ -119,9 +105,6 @@ p5{
 }
 h6{
     font-size: 60px;
-}
-p6{
-    font-size: 30px;
 }
 
 .chamada7{
@@ -140,12 +123,6 @@ h7{
     font-size: 60px;
 }
 
-p7{
-    font-size: 30px;
-}
-
-
-
 .chamada8{
     background: rgb(178, 219, 179);
     padding-bottom: 80px;
@@ -160,10 +137,6 @@ p7{
 
 h8{
     font-size: 60px;
-}
-
-p8{
-    font-size: 30px;
 }
 
 .categoria-videos{
