@@ -1,14 +1,14 @@
 body {
     color:black;
     background: aquamarine;
-    font-family: "Are You Serious", cursive;
+   font-size: 60px;
     margin-bottom: 100px;
 }
 
 header{
     border-bottom: solid 6px rgb(23, 217, 23);
     padding: 20px;
-    font-size: 40px;
+    font-family: "Are You Serious", cursive;
     color: rgb(18, 112, 18);
 
 }
@@ -34,6 +34,132 @@ p{
     font-size: 30px;
 }
 
+.chamada2{
+    background: rgb(178, 219, 179);
+    padding-bottom: 80px;
+    padding-top: 20px;
+    display: flex;
+    justify-content: left;
+}
+
+.chamada-texto2{
+    margin-right: 10%;
+}
+
+h2{
+    font-size: 60px;
+}
+p2{
+    font-size: 30px;
+}
+
+.chamada3{
+    background: rgb(178, 219, 179);
+    padding-bottom: 80px;
+    padding-top: 20px;
+    display: flex;
+    justify-content: left;
+}
+
+.chamada-texto3{
+    margin-right: 10%;
+}
+h3{
+    font-size: 60px;
+}
+p3{
+    font-size: 30px;
+}
+.chamada4{
+    background: rgb(178, 219, 179);
+    padding-bottom: 80px;
+    padding-top: 20px;
+    display: flex;
+    justify-content: left;
+}
+
+.chamada-texto4{
+    margin-right: 10%;
+}
+h4{
+    font-size: 60px;
+}
+p4{
+    font-size: 30px;
+}
+
+.chamada5{
+    background: rgb(178, 219, 179);
+    padding-bottom: 80px;
+    padding-top: 20px;
+    display: flex;
+    justify-content: left;
+}
+
+.chamada-texto5{
+    margin-right: 10%;
+}
+h5{
+    font-size: 60px;
+}
+p5{
+    font-size: 30px;
+}
+
+.chamada6{
+    background: rgb(178, 219, 179);
+    padding-bottom: 80px;
+    padding-top: 20px;
+    display: flex;
+    justify-content: left;
+}
+
+.chamada-texto6{
+    margin-right: 10%;
+}
+h6{
+    font-size: 60px;
+}
+p6{
+    font-size: 30px;
+}
+
+.chamada7{
+    background: rgb(178, 219, 179);
+    padding-bottom: 80px;
+    padding-top: 20px;
+    display: flex;
+    justify-content: left;
+}
+
+.chamada-texto7{
+    margin-right: 10%;
+}
+h7{
+    font-size: 60px;
+}
+p7{
+    font-size: 30px;
+}
+
+.chamada8{
+    background: rgb(178, 219, 179);
+    padding-bottom: 80px;
+    padding-top: 20px;
+    display: flex;
+    justify-content: left;
+}
+
+.chamada-texto8{
+    margin-right: 10%;
+}
+h8{
+    font-size: 60px;
+}
+p8{
+    font-size: 30px;
+}
+
 .categoria-videos{
     display: flex;
     overflow-x: auto;
@@ -44,7 +170,7 @@ gap: 10px;
 .categoria{
     padding-left: 20px;
     padding-right: 20px;
-
+font-family: "Are You Serious", cursive;
 }
 
 .categoria-videos img {
@@ -61,4 +187,5 @@ gap: 10px;
 .categoria h2{
     color:rgb(18, 112, 18);
     margin-top: 60px;
+    
 }
