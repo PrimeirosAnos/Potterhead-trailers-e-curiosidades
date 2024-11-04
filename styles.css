@@ -127,7 +127,7 @@ p6{
 .chamada7{
     background: rgb(178, 219, 179);
     padding-bottom: 80px;
-    padding-top: 20px;
+    padding-top: 80px;
     display: flex;
     justify-content: left;
 }
@@ -135,17 +135,21 @@ p6{
 .chamada-texto7{
     margin-right: 10%;
 }
+
 h7{
     font-size: 60px;
 }
+
 p7{
     font-size: 30px;
 }
 
+
+
 .chamada8{
     background: rgb(178, 219, 179);
     padding-bottom: 80px;
-    padding-top: 20px;
+    padding-top: 80px;
     display: flex;
     justify-content: left;
 }
@@ -153,9 +157,11 @@ p7{
 .chamada-texto8{
     margin-right: 10%;
 }
+
 h8{
     font-size: 60px;
 }
+
 p8{
     font-size: 30px;
 }
